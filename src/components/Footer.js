@@ -16,7 +16,7 @@ export default function Footer(props) {
             </div></div>
           <div className="col-md-4 text-center">
            
-            <a href="https://github.com/ravee-in/BoxShadow-Generator" className="bCoffee" target="_blank" rel="noreferrer"><i className="fa fa-star" aria-hidden="true"></i> Star on Github</a>
+            <a href="https://github.com/ravee-in/InstaCaption" className="bCoffee" target="_blank" rel="noreferrer"><i className="fa fa-star" aria-hidden="true"></i> Star on Github</a>
             <p className='text-light m-0 text-center'><small>This project is Open-Source!</small></p>
           </div>
 
